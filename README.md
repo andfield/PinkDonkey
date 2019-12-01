@@ -1,2 +1,1 @@
-# PinkDonkey
-Website for Pink Donkey food trucks
+# Pink-Donkey
